@@ -161,10 +161,10 @@ npx expo build:status
 ![Экран загрузки](screenshots/add_task.png)
 
 # Экран с добавленой задачей
-![Экран загрузки](screenshots/onadd_task_2e.png)
+![Экран загрузки](screenshots/onadd_task_2.png)
 
 # Экран задача выполнена
-![Экран загрузки](screenshots/ocompleted_task.png)
+![Экран загрузки](screenshots/completed_task.png)
 
 # Удаление задачи
 ![Экран загрузки](screenshots/delete_task.png)
